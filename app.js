@@ -12,3 +12,5 @@ $(document).on("change","input[type=checkbox]",function(){
 			$(this).parent().css("text-decoration","none");
 		}
 });
+
+#Todo color
